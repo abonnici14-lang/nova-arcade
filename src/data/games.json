@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://api.placeholder.com/400/300?text=2048"
+  },
+  {
+    "id": "t-rex-run",
+    "title": "T-Rex Run",
+    "category": "Arcade",
+    "description": "The classic dino jumping game from Chrome.",
+    "url": "https://chromedino.com/",
+    "thumbnail": "https://api.placeholder.com/400/300?text=T-Rex+Run"
+  },
+  {
+    "id": "snake",
+    "title": "Google Snake",
+    "category": "Arcade",
+    "description": "The timeless classic of eating apples and growing longer.",
+    "url": "https://www.google.com/search?q=snake+game&igu=1",
+    "thumbnail": "https://api.placeholder.com/400/300?text=Snake"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "category": "Puzzle",
+    "description": "A fast-paced puzzle game inspired by Tetris.",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://api.placeholder.com/400/300?text=Hextris"
+  },
+  {
+    "id": "eggy-car",
+    "title": "Eggy Car",
+    "category": "Driving",
+    "description": "Drive a car with an egg on top as far as you can.",
+    "url": "https://eggycar.com/",
+    "thumbnail": "https://api.placeholder.com/400/300?text=Eggy+Car"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "category": "Action",
+    "description": "Speed down a neon slope in this high-octane runner.",
+    "url": "https://slopegame.online/",
+    "thumbnail": "https://api.placeholder.com/400/300?text=Slope"
+  }
+]

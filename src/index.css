@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: var(--color-indigo-600);
+  --color-surface-950: var(--color-slate-950);
+  --color-surface-900: var(--color-slate-900);
+  --color-surface-800: var(--color-slate-800);
+  --color-surface-700: var(--color-slate-700);
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+}
